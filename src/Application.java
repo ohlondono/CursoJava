@@ -12,6 +12,9 @@ public class Application {
 		int myNumber;
 		myNumber = 77;
 		System.out.println(myNumber);
+		String myString;
+		myString = "Julio";
+		System.out.println(myString);
 		
 	}
 
