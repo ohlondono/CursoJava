@@ -1,10 +1,11 @@
 /**
- * @author Oscar
+ * @author ohlo
  *
  */
 public class Application {
 
 	/**
+	 * Main Method.
 	 * @param args
 	 */
 	public static void main(String[] args) {
